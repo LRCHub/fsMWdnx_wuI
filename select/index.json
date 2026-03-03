@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ME ME ME",
+  "base_artist": "MEOVV",
+  "createdAt": "2026-03-03T19:01:44.005658Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Me!Me!Me!, Pt. 1",
+      "artist": "TeddyLoid feat. DAOKO",
+      "has_synced": true,
+      "path": "select/01_Me!Me!Me!,_Pt._1_TeddyLoid_feat._DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Me!Me!Me!, Pt. 1",
+      "artist": "TeddyLoid/Daoko",
+      "has_synced": true,
+      "path": "select/02_Me!Me!Me!,_Pt._1_TeddyLoid_Daoko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Me!Me!Me!, Pt. 2",
+      "artist": "TeddyLoid feat. DAOKO",
+      "has_synced": false,
+      "path": "select/03_Me!Me!Me!,_Pt._2_TeddyLoid_feat._DAOKO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Me!Me!Me!, Pt. 2",
+      "artist": "TeddyLoid/Daoko",
+      "has_synced": false,
+      "path": "select/04_Me!Me!Me!,_Pt._2_TeddyLoid_Daoko.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Me!Me!Me!, Pt. 3",
+      "artist": "TeddyLoid feat. DAOKO",
+      "has_synced": true,
+      "path": "select/05_Me!Me!Me!,_Pt._3_TeddyLoid_feat._DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Me!Me!Me!, Pt. 3",
+      "artist": "TeddyLoid/Daoko",
+      "has_synced": true,
+      "path": "select/06_Me!Me!Me!,_Pt._3_TeddyLoid_Daoko.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Me! Me! Me!",
+      "artist": "The Idol Formerly Known As LADYBABY",
+      "has_synced": true,
+      "path": "select/07_Me!_Me!_Me!_The_Idol_Formerly_Known_As_LADYBABY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ME!ME!ME! feat. daoko_pt.1",
+      "artist": "TeddyLoid",
+      "has_synced": true,
+      "path": "select/08_ME!ME!ME!_feat._daoko_pt.1_TeddyLoid.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ME!ME!ME! - INFINITY",
+      "artist": "TeddyLoid feat. Daoko",
+      "has_synced": true,
+      "path": "select/09_ME!ME!ME!_-_INFINITY_TeddyLoid_feat._Daoko.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ME!ME!ME! feat. daoko_pt.1",
+      "artist": "日本アニメ(ーター)見本市 feat. TeddyLoid & Daoko",
+      "has_synced": false,
+      "path": "select/10_ME!ME!ME!_feat._daoko_pt.1_日本アニメ(ーター)見本市_feat._TeddyLoid_&_Daoko.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ME!ME!ME!_pt.1",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/11_ME!ME!ME!_pt.1_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ME!ME!ME!_pt.1",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/12_ME!ME!ME!_pt.1_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ME!ME!ME!_pt.2",
+      "artist": "DAOKO",
+      "has_synced": false,
+      "path": "select/13_ME!ME!ME!_pt.2_DAOKO.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ME!ME!ME!_pt.3",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/14_ME!ME!ME!_pt.3_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ME!ME!ME!_pt.1",
+      "artist": "TeddyLoid",
+      "has_synced": true,
+      "path": "select/15_ME!ME!ME!_pt.1_TeddyLoid.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ME!ME!ME!_pt.2",
+      "artist": "TeddyLoid",
+      "has_synced": true,
+      "path": "select/16_ME!ME!ME!_pt.2_TeddyLoid.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ME!ME!ME!_pt.3",
+      "artist": "TeddyLoid",
+      "has_synced": true,
+      "path": "select/17_ME!ME!ME!_pt.3_TeddyLoid.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ME ME ME",
+      "artist": "MEOVV",
+      "has_synced": false,
+      "path": "select/pl_01_ME_ME_ME_MEOVV.txt"
+    }
+  ]
+}
